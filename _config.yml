@@ -24,12 +24,15 @@ author:
   avatar           : "陈奕钢.jpg"
   name             : "Leon YG Chen/陈奕钢"
   pronouns         : # example: "she/her"  
-  bbio: |
-    Welcome to my page! I'm a Ph.D. candidate specializing in AI and bioinformatics. Here's a quick snapshot of who I am:
-    - **Strengths**: Solid academic record, strong leadership and teaching abilities, exceptional task management and execution skills.
-    - **Research Interests**: AI4Science (focus on AIDD), systems biology modeling, biological data analysis, and webserver development.
-    - **Hobbies**: History, novels, swimming, and more.
-    Glad to connect with you!
+  bio: |
+    <p>Welcome to my page! I'm a Ph.D. candidate specializing in AI and bioinformatics. Here's a quick snapshot of who I am:</p>
+    <ul style="padding-left: 0; margin-left: 0;">
+    <li><b>Strengths</b>: Solid academic record, strong leadership and teaching abilities, exceptional task management and execution skills.</li>
+    <li><b>Research Interests</b>: AI4Science (focus on AIDD), systems biology modeling, biological data analysis, and webserver development.</li>
+    <li><b>Hobbies</b>: History, novels, swimming, and more.</li>
+    </ul>
+    <p>Glad to connect with you!</p>
+
   location         : "Shen Zhen"
   employer         : "CUHK(SZ)"
   uri              : # URL
