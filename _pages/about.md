@@ -1,13 +1,16 @@
 ---
 permalink: /
-title: "Leon YG Chen, Ph.D. Candidate Specializing in AI and System Biology"
+title: "Leon YG Chen's Academic Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## Introduction
+**Ph.D. Candidate @ The Chinese University of Hong Kong, Shenzhen**  
+**Executive Deputy Director @ *Better Way Group – Chinese University of Hong Kong (Shenzhen) Warshel Joint Laboratory for Skin Health and Active Molecule Innovation***
+
+
 Hi, I’m **Leon YG Chen**, a Ph.D. candidate at **The Chinese University of Hong Kong, Shenzhen (CUHK(SZ))**, affiliated with the **MED School**. My research interests lie at the intersection of **Artificial Intelligence** and **Life Sciences**, focusing on:
 
 - **AI-based drug discovery (AI4Science)**
